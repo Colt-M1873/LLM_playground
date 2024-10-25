@@ -26,5 +26,13 @@ RAG retrieval-augmented-generation设置
 参考 
 https://gist.github.com/fjchen7/89d129354bca42792a0ed949d5421ba8
 
+<!-- 
+Token Embedding的结果，通过GPT2或者llama的token-embedding结果来查看网络热梗的相关性，梗与年代时间人物的相关性。例如airplane-911-world trade center这些词之间的向量相似性
+吉吉国大模型入门：ylg也能看懂的硅胶模型，换电棍的音源准备材料做简单的教程，以3b1b的教程结合原论文做ppt
+以电棍的相关文章报道梗百科内容做RAG， 大模型RAG做一期视频，做抽象名人搜索的大模型RAG，整理孙笑川电棍山泥若之类的语料去先做RAG，后做训练
+推公式，一步一步推QKV公式结合ipynb代码调试理解做视频。
+-->
+
+
 
 
